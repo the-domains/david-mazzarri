@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[David Mazzarri]]></title>
+        <description><![CDATA[David Mazzarri]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 04 Jun 2016 21:36:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Snapshots (from the rooftop garden)</p>]]></description>
+            <link>undefinedsnapshots-from-the-rooftop-garden/index.html</link>
+            <guid isPermaLink="false">60d22855-7969-4be3-88ee-bfce8e586476</guid>
+            <pubDate>Sat, 04 Jun 2016 21:36:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
