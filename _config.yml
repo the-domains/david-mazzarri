@@ -1,6 +1,6 @@
 name: David Mazzarri
 favicon: null
-layout_spectrum: 0.9667851347476244
+layout_spectrum: 0.25842
 typography_spectrum: 0.1167583828791976
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.17823799140751362
-  lightness: 0.6617358466610312
-  saturation: 0.0031646688003093004
-  rhythmicContrast: 0.13105893251486123
+    - '#0f442c'
+    - '#dfe7ea'
+    - '#6e5b53'
+    - '#ac9a9a'
+    - '#479693'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
