@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[David Mazzarri]]></title>
         <description><![CDATA[David Mazzarri]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/david-mazzarri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 21:36:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 00:29:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/david-mazzarri/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef972f0-1ca7-4a37-a295-d0adadab0dd2.jpg">]]></description>
+            <link>https://thegrid.ai/david-mazzarri/d6744de9-67d4-4ed5-820a-3963209de469/index.html</link>
+            <guid isPermaLink="false">d6744de9-67d4-4ed5-820a-3963209de469</guid>
+            <pubDate>Sun, 05 Jun 2016 00:29:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Snapshots (from the rooftop garden)</p>]]></description>
-            <link>undefinedsnapshots-from-the-rooftop-garden/index.html</link>
+            <link>https://thegrid.ai/david-mazzarri/snapshots-from-the-rooftop-garden/index.html</link>
             <guid isPermaLink="false">60d22855-7969-4be3-88ee-bfce8e586476</guid>
             <pubDate>Sat, 04 Jun 2016 21:36:00 GMT</pubDate>
         </item>
